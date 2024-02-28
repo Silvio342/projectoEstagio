@@ -1,0 +1,31 @@
+form{
+    background-color: #363679;
+    width: 400px;
+    height: 500px;
+    border-radius: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+    font: normal bold 100% arial;
+}
+h1{
+    text-align: center;
+    font: normal bold 300% arial;
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 20px;
+    font: normal bold 130% arial;
+}
+button{
+    width: 200px;
+    height: 45px;
+    font: normal bold 200% arial;
+    border-radius: 20px;
+    color: #363679;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+}
